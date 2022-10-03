@@ -49,7 +49,6 @@ else if (deliveryDistance<=60)
     System.out.println("Доставка занимает двое суток");
 else if (deliveryDistance<=100)
     System.out.println("Доставка занимает трое суток");
-
         System.out.println("_____________________________________________________________");
         System.out.println("Введите нужный Вам номер месяца ");
         Scanner month =new Scanner (System.in);
